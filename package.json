@@ -1,0 +1,27 @@
+{
+  "author": "Ang Li",
+  "bugs": {
+    "url": "https://github.com/postverta/expressjs-start/issues"
+  },
+  "dependencies": {
+    "connect": "^3.6.5",
+    "js-yaml": "^3.10.0",
+    "swagger-tools": "^0.10.3"
+  },
+  "description": "Hello world app",
+  "homepage": "https://github.com/postverta/expressjs-start#readme",
+  "keywords": [
+    "expressjs"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "postvertasample",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/postverta/expressjs-start.git"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "version": "1.0.0"
+}
